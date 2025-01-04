@@ -1,3 +1,4 @@
+{ "intents":
 [
     {
         "tag": "greeting",
@@ -3347,4 +3348,4 @@
             "Archaeologists and historians continue to unearth relics that shed light on human history and civilization."
         ]
     }
-]
+]}
